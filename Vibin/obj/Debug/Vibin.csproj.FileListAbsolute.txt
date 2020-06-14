@@ -1,0 +1,7 @@
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\bin\Debug\Vibin.exe
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\bin\Debug\Vibin.pdb
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\obj\Debug\Vibin.csprojResolveAssemblyReference.cache
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\obj\Debug\Vibin.exe
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\obj\Debug\Vibin.pdb
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\bin\Debug\NAudio.dll
+C:\Users\Alex\RiderProjects\Vibin_Solution\Vibin\bin\Debug\NAudio.xml
